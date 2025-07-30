@@ -6,8 +6,8 @@ This Streamlit application helps job seekers improve their resumes using Google'
 💼 Recommendations for relevant project ideas
 
 Built with:
-Python
-Streamlit
-Google Generative AI (Gemini)
-pdf2image
-dotenv
+Python,
+Streamlit,
+Google Generative AI (Gemini),
+pdf2image,
+dotenv.
